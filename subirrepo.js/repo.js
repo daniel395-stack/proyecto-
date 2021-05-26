@@ -1,0 +1,1 @@
+document.write("esto es un mensaje de prueba");
